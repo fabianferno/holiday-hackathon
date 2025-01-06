@@ -2,8 +2,11 @@ Project Name:
 # 📈🥕RADISH
 
 #### Team Members: 
-- Fabian Ferno (fabianferno.eth)
-- Leo Franklin (leofranklin.eth)
+- Fabian Ferno (superskywalker.lens)
+- Leo Franklin (leofranklin.lens)
+
+![image](https://github.com/user-attachments/assets/8f8964f7-733c-4888-8113-674a52ee519d)
+
 
 ## Project Description:
 RADISH is a app that enables new social-fi paradigm where fans get to bet on their favorite content creators on platforms like Youtube, Twitter and Tiktok. Creator rivalry has always entertained the masses greatly - Pewd vs T-series, KSI vs LoganPaul, etc - With radish - all this hype and fandom can be monetized through a prediction markets that resolve followers, subscribers & viewer counts.
@@ -35,13 +38,7 @@ https://www.canva.com/design/DAGbXLFaQwE/z0NoDv6UvUD897wJ2IZOxw/watch
 https://pitch.com/v/radish-lens-8r4bsm 
 
 ### Screenshots
-![image](https://github.com/user-attachments/assets/f5c533c6-0344-425e-97c9-840edcbe78f7)
-![image](https://github.com/user-attachments/assets/fe571fa1-6461-40ae-9242-5da5db692d9e)
-![image](https://github.com/user-attachments/assets/a4e4ab73-b975-432d-965d-45e5e76c0b6a)
-![image](https://github.com/user-attachments/assets/63619846-f2f2-4c97-8917-d564ad9b725c)
-![image](https://github.com/user-attachments/assets/9536546e-22d6-452e-a08a-b382531b5086)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/b0548d4d-19e3-4750-a2b5-27317a3eea02)
+![image](https://github.com/user-attachments/assets/64c757d8-8106-4c5f-b903-fb7330241892)
+![image](https://github.com/user-attachments/assets/76ac735a-1323-4914-9495-83ee4426d9ad)
+![image](https://github.com/user-attachments/assets/7ce6d8c1-6d46-468a-9de5-baf0585d3d02)
