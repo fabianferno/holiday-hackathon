@@ -9,21 +9,55 @@ Project Name:
 
 
 ## Project Description:
-RADISH is a app that enables new social-fi paradigm where fans get to bet on their favorite content creators on platforms like Youtube, Twitter and Tiktok. Creator rivalry has always entertained the masses greatly - Pewd vs T-series, KSI vs LoganPaul, etc - With radish - all this hype and fandom can be monetized through a prediction markets that resolve followers, subscribers & viewer counts.
+RADISH is a decentralized application (dApp) designed to revolutionize fan engagement in the creator economy. By introducing prediction markets where fans can bet on their favorite content creators' growth metrics, RADISH gamifies fandom and enables users to monetize their passion. Built on the Lens Network, RADISH is secure, trustless, and leverages cutting-edge technology for seamless operation.
 
-Features:
-- [[Prediction Markets]]: Fans can place bets on creator growth metrics and rivalry outcomes.
-- Monetization of Fandom: Capitalize on creator rivalries like PewDiePie vs. T-Series or KSI vs. Logan Paul.
-- Decentralized, Verifiable, Semi-permissionless: Built on NeoX Blockchain for secure, trustless transactions with zktls enabled proofs to verify data from secure Meta, Google, Tiktok APIs.
-- Community Engagement: Fans actively support and participate in creator growth dynamics.
+## Intro
+We're a team of devs based in India who've been building different web3 products in various niches and problems. Quick flashback: We've been seeing different YouTubers like PewDiePie, T-Series, iShowSpeed, Mr. Beast, etc., have their internet battles on subscriber counts and fan hype streaks. An idea to transcend this engagement to a social finance primitive was the backstory of Radish - a platform for prediction markets to let fans bet and earn on the outcome of these social battles. While one can actually pull this off in a Polymarket, Radish lets anyone create these markets and resolve them with oracle APIs from YouTube, Instagram, TikTok APIs. It was very exciting for us to build Radish for the Lens Holidays Hackathon.
 
-RADISH transforms the creator-fan relationship by gamifying engagement and enabling fans to monetize their passion for creators.
+## Submission for the Lens Holidays Web3 Hackathon
+We are proud to submit RADISH for the Lens Holidays Web3 Hackathon. This innovative dApp leverages the power of Web3 to redefine fan engagement in the creator economy. By combining prediction markets, blockchain technology, and creator-fan dynamics, RADISH is poised to set a new standard in Social-Fi applications.
 
-#### Future plans:
-- **Multi-Platform Integration**: Expand beyond YouTube, Twitter, and TikTok to include emerging platforms like Instagram Threads, Twitch, and Patreon.
-- **Creator Rewards**: Implement a reward system where content creators benefit from their fans' engagement, fostering a symbiotic ecosystem.
-- **Collaborations with Creators**: Partner with influencers to promote RADISH, driving adoption and incentivizing content creators to engage with the platform.
-- More Robust integration with a Neo supported Data oracle systems or an Optimistic Oracle for fully permissionless market resolution
+
+### Key Features
+- Advanced Market Making Mechanism
+	- We've implemented a sophisticated Logarithmic Market Scoring Rule (LMSR) for price discovery, which is more advanced than basic AMM implementations. This provides better price stability and liquidity management compared to simple constant product markets.
+- **Monetization of Fandom**: Capitalize on iconic creator rivalries like PewDiePie vs. T-Series or KSI vs. Logan Paul.
+- **Decentralized, Verifiable, Semi-Permissionless**: Powered by Lens Network with zk-enabled proofs for secure, trustless data verification from APIs like Meta, Google, and TikTok.
+- **Community Engagement**: Fans actively participate in the growth dynamics of their favorite creators.
+
+### How RADISH Works
+RADISH combines the excitement of prediction markets with blockchain technology to provide fans with a unique way to support and engage with their favorite creators:
+1. Fans place bets on various creator milestones and rivalry outcomes.
+2. Market prices are determined using a sophisticated Logarithmic Market Scoring Rule (LMSR), ensuring price stability and efficient liquidity.
+3. Outcomes are resolved using decentralized data oracles, ensuring trustless and accurate results.
+   
+![image](https://github.com/user-attachments/assets/a61275e0-9c01-4ba6-94a6-0e53e15cc32c)
+
+## Future Roadmap
+- **Lens Embedded App Integration**: Enable users to place bets directly from a Lens Embedded App once integration is supported.
+- **Multi-Platform Integration**: Expand to include platforms like Instagram Threads, Twitch, and Patreon.
+- **Creator Rewards**: Develop a reward system to directly benefit content creators from fan engagement.
+- **Collaborations with Creators**: Partner with influencers to drive adoption and incentivize creators to engage with the platform.
+- **Optimized Data Oracles**: Implement a more robust integration with Neo-supported data oracles or an Optimistic Oracle for fully permissionless market resolution.
+
+## Technical Details
+### Advanced Market Making Mechanism
+RADISH employs a sophisticated Logarithmic Market Scoring Rule (LMSR) for price discovery. This advanced mechanism offers:
+- Improved price stability
+- Efficient liquidity management
+- Superior performance compared to basic Automated Market Maker (AMM) models
+
+### Core Architecture
+The RADISH dApp is powered by a modular and upgradeable architecture:
+- **RadishCore Contract**: Serves as a factory contract with automated market initialization, token contract management, and market registration.
+- **Upgradeable Components**: Ensures flexibility and scalability for future updates and features.
+
+
+## Why RADISH?
+RADISH transforms the traditional creator-fan relationship by:
+- Gamifying fan engagement through prediction markets
+- Providing a secure, decentralized platform for monetizing fandom
+- Offering creators a new avenue for growth and interaction with their audience
 
 ### Source Code: 
 [GitHub](https://github.com/LeoFranklin015/Radish)
